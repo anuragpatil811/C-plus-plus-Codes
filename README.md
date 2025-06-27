@@ -1,2 +1,1 @@
-# C-plus-plus-Codes
-Contains all the C++ codes from basic to advance
+Contains the basic code of multiple inheritance
